@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+p{
+    color: pink;
+    font-size: 200px;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+}
+h2{
+    font-style: italic;
+}
